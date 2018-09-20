@@ -32,7 +32,7 @@
 
 #include <stdint.h>
 #include <stdio.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <sys/types.h>
 
 #include "hts_defs.h"

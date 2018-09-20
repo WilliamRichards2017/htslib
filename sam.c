@@ -30,7 +30,7 @@ DEALINGS IN THE SOFTWARE.  */
 #include <stdlib.h>
 #include <string.h>
 #include <errno.h>
-#include <zlib.h>
+#include "/usr/include/zlib.h"
 #include <assert.h>
 #include "htslib/sam.h"
 #include "htslib/bgzf.h"
